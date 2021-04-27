@@ -16,7 +16,7 @@ class GUI(QMainWindow):
         
     def initUI(self):
         self.setWindowTitle('Mi ventana PyQt5 GUI')
-        self.resize(400,300)
+        self.resize(1000,700)
         
 if __name__ == '__main__':
     app = QApplication(sys.argv)
