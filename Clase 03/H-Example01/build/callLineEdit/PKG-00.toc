@@ -1,0 +1,51 @@
+('C:\\Users\\PEDRO '
+ 'JUAN\\Documents\\gitworkspace\\TW\\curso-de-software-gui\\Clase '
+ '03\\H-Example01\\build\\callLineEdit\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\PEDRO '
+   'JUAN\\Documents\\gitworkspace\\TW\\curso-de-software-gui\\Clase '
+   '03\\H-Example01\\build\\callLineEdit\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct', 'C:\\ProgramData\\Anaconda3\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('callLineEdit',
+   'C:\\Users\\PEDRO '
+   'JUAN\\Documents\\gitworkspace\\TW\\curso-de-software-gui\\Clase '
+   '03\\H-Example01\\callLineEdit.py',
+   'PYSOURCE'),
+  ('callLineEdit.exe.manifest',
+   'C:\\Users\\PEDRO '
+   'JUAN\\Documents\\gitworkspace\\TW\\curso-de-software-gui\\Clase '
+   '03\\H-Example01\\build\\callLineEdit\\callLineEdit.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])

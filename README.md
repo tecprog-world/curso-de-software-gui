@@ -9,3 +9,14 @@ La tecnología de este proyecto es:
 * Python3.8 con PyQt5, Pyinstaller
 * Framework Qt Designer 5
 
+### Instrucciones CONDA
+####Instalar PyQt 5 y Qt Designer
+conda update --all
+conda install qt
+conda install pyqt
+
+OffTopic:
+https://intel.github.io/scikit-learn-intelex
+$ conda install scikit-learn-intelex
+$ python -m sklearnex my_application.py
+
